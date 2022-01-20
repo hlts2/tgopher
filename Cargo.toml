@@ -4,7 +4,11 @@ version = "0.1.0"
 edition = "2021"
 authors = ["hlts2"]
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+license = "MIT"
+description = "Gopher passes through the terminal"
+repository = "https://github.com/hlts2/tgopher"
+readme = "README.md"
+keywords = ["tgopher"]
 
 [dependencies]
 termion = "1.5.6"
