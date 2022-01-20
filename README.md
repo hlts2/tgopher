@@ -9,3 +9,9 @@ Gopher passes through the terminal.
 ``
 cargo install tgopher
 ``
+
+# Usage
+
+``
+$ tgopher
+``
