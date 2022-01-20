@@ -37,6 +37,8 @@ fn main() {
                 thread::sleep(time::Duration::from_millis(20));
                 clear_screen(&mut out);
             }
+            write!(out, "{}", cursor::Goto(1, 0)).unwrap();
+            out.flush().unwrap();
         }
         Err(_) => {
             return;
