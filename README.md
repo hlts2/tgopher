@@ -1,6 +1,6 @@
 # tgopher
 
-Gopher passes through the terminal.
+Gopher passes through your terminal.
 
 ![TGOPHER](https://raw.githubusercontent.com/hlts2/tgopher/main/assets/tgopher.gif)
 
